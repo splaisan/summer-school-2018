@@ -1,4 +1,4 @@
-# summer_school_2018 (2018-08-31)
+# summer-school-2018 (2018-08-31)
 
 In order to share your issues with us, please use the **Issues** tab above and file in a new 'issue'
 
